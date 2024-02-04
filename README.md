@@ -11,5 +11,5 @@ This summary is not legally binding.
 |--------------|-------------|------------------------------|
 | Modification | Liability   | License and copyright notice |
 | Distribution | Warranty    | State changes                |
-| Patent use   |             | Disclose source              |
-| Private use  |             | Same license                 |
+| Private use  |             | Disclose source              |
+|              |             | Same license                 |
